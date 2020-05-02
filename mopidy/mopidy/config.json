@@ -10,7 +10,7 @@
   "ingress_port": 1337,
   "ingress_entry": "iris/",
   "startup": "application",
-  "arch": ["amd64"],
+  "arch": ["amd64","armv7"],
   "boot": "auto",
   "hassio_api": true,
   "auth_api": true,
